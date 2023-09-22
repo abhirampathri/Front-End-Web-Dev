@@ -1,0 +1,22 @@
+h1 {
+    color: orange;
+}
+
+p{
+    color: slateblue;
+}
+.container{
+    border-width: 5px;
+    border-style: solid;
+    border-color: crimson;
+    margin: 20px;
+
+}
+
+#list{
+    Font-size: 20px;
+}
+
+body{
+    background-color: pink;
+}
