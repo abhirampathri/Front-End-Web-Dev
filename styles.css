@@ -1,22 +1,7 @@
-h1 {
-    color: orange;
+body {
+    padding: 20px;
 }
-
-p{
-    color: slateblue;
-}
-.container{
-    border-width: 5px;
-    border-style: solid;
-    border-color: crimson;
-    margin: 20px;
-
-}
-
-#list{
-    Font-size: 20px;
-}
-
-body{
-    background-color: pink;
+ul > * {
+    list-style-type: square;
+    text-decoration: underline;
 }
